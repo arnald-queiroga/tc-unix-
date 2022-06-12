@@ -1,0 +1,5 @@
+#!/bin/bash
+ls -la
+ls -la /home/arnald/Documents/tc-unix
+ls -la /boot
+
